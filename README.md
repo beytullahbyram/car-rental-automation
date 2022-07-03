@@ -1,4 +1,5 @@
-# car-rental-automation Car rental automation that I have done with python, tkinter and mysql. 
+# car-rental-automation 
+Car rental automation that I have done with python, tkinter and mysql. 
 
 The program can be used after the database connections are made. 
 
